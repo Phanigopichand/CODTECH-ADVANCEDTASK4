@@ -53,3 +53,6 @@ Normalized Discounted Cumulative Gain (NDCG)
 Coverage: Measures the proportion of items that can be recommended.
 Novelty: Measures the extent to which recommendations are new and unexpected.
 Diversity: Measures the variety of items recommended.
+
+![WhatsApp Image 2025-01-18 at 1 18 55 PM](https://github.com/user-attachments/assets/b086a6f3-72cc-4414-a34a-3b11a6f9cfd8)
+
